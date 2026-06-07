@@ -1,2 +1,3 @@
 # sistema-bancario-em-java
 um sistema bancario,feito para criar contas realizar saques e depósitos totalmente feito em java
+com o intuito de facilitar a vida do cliente,esse pequeno sistema tem varias funções acopladas,á exemplo de criar conta,apagar conta,saque e depósito como algumas delas.O projeto tem em sua criação varios pilares de POO,como a abstração os metodos construtores e o encapsulamento.

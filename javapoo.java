@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 
-class javaPOO {
+class javapoo {
     public static void main(String[] args) {
         ContaBancaria c1 = new ContaBancaria();
         
